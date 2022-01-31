@@ -1,4 +1,6 @@
 
+//TEST MODIF GIT//
+
 /*
 ***Thermometre numerique VERSION 2 TEST CHECKSUM***
 **********Test Bitfield**************
